@@ -257,7 +257,16 @@ const Team = () => {
           </li>
           <li>
             <a
-              href="https://github.com/edmonsaras"
+              href="https://github.com/Tainmet/"
+              target="_blank"
+              className="link"
+            >
+              Shrawan
+            </a>
+          </li>
+          <li>
+            <a
+             href="https://github.com/edmonsaras"
               target="_blank"
               className="link"
             >
